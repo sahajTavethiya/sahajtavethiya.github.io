@@ -5,3 +5,5 @@ gameadzone.com, 2400, DIRECT
 
 
 google.com, pub-6749002581388598, DIRECT, f08c47fec0942fa0
+vungle.com, 6adc3017f91e48bb2f60025e, DIRECT, c107d686becd2d77
+unity.com, 158654240, DIRECT, 96cabb5fbdde37a7
